@@ -7,7 +7,7 @@ I continuously explore emerging technologies and best practices to enhance my sk
 
 Skills: Tailwind/ REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Build a Ecommerce website 
+- 🔭 I’m currently working on a Ecommerce website 
 - 🌱 I’m currently learning Tailwind , React 
 - 📫 How to reach me: mandalmilan272@gmail.com 
 
