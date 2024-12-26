@@ -1,5 +1,5 @@
 
-<img align="top" width="1000" src="https://ideogram.ai/assets/image/lossless/response/QRbNZvCeR22sMzj23gSRCw">
+<img align="center" alt="Pic" width="400" src="https://ideogram.ai/assets/image/lossless/response/QRbNZvCeR22sMzj23gSRCw">
 <h1 align="center">Hi 👋, I'm Milan Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://github.com/student-MilanMandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="student-MilanMandal" height="30" width="40" /></a>
 <a href="https://twitter.com/milanmanda93462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milanmanda93462" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/codemilanmandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codemilanmandal" height="30" width="40" /></a>
 <a href="https://fb.com/codemilanmandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codemilanmandal" height="30" width="40" /></a>
