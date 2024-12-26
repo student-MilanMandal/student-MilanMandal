@@ -1,4 +1,4 @@
-<img align="center" width="400" src="https://github.com/student-MilanMandal/student-MilanMandal/blob/main/milan-photoaidcom-cropped.jpg">
+<img align="center" width="300" src="https://github.com/student-MilanMandal/student-MilanMandal/blob/main/milan-photoaidcom-cropped.jpg">
 <h1 align="center">Hi 👋, I'm Milan Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
