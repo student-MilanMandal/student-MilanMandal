@@ -1,5 +1,5 @@
 
-<img src="https://ideogram.ai/assets/image/lossless/response/QRbNZvCeR22sMzj23gSRCw">
+<img align="top" width="1000" src="https://ideogram.ai/assets/image/lossless/response/QRbNZvCeR22sMzj23gSRCw">
 <h1 align="center">Hi 👋, I'm Milan Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
