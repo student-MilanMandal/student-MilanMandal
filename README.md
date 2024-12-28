@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Milan Mandal" loading="lazy" width="350" src="https://github.com/student-MilanMandal/student-MilanMandal/blob/main/milan-photoaidcom-cropped.jpg"/> </p>
+<p align="center"> <img alt="Milan Mandal" loading="eager" width="350" src="https://github.com/student-MilanMandal/student-MilanMandal/blob/main/milan-photoaidcom-cropped.jpg"/> </p>
 <h1 align="center">Hi 👋, I'm Milan Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
