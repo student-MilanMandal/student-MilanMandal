@@ -21,11 +21,11 @@
 
 <h1 align="center">🤝 Connect with me:</h1>
 <p align="center">
-  <a href="https://github.com/student-MilanMandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="student-MilanMandal"  width="100" /></a>
-<a href="https://twitter.com/milanmanda93462" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="milanmanda93462" width="150" /></a>
-<a href="https://linkedin.com/in/codemilanmandal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="codemilanmandal" width="150" /></a>
-<a href="https://fb.com/codemilanmandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codemilanmandal"  width="100" /></a>
-<a href="https://instagram.com/milanmandal554" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="milanmandal554"  width="150" /></a>
+  <a href="https://github.com/student-MilanMandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="student-MilanMandal"  width="90" /></a>
+<a href="https://twitter.com/milanmanda93462" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="milanmanda93462" width="130" /></a>
+<a href="https://linkedin.com/in/codemilanmandal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="codemilanmandal" width="130" /></a>
+<a href="https://fb.com/codemilanmandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codemilanmandal"  width="80" /></a>
+<a href="https://instagram.com/milanmandal554" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="milanmandal554"  width="130" /></a>
 </p>
 
 
