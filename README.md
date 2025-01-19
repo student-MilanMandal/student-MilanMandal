@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/student-MilanMandal">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E82561&width=300&height=32&lines=Hi👋+I'm+Milan+Mandal.....;Nice+To+Meet+You+....&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E82561&width=280&height=33&lines=Hi👋+I'm+Milan+Mandal.....;Nice+To+Meet+You+....&center=true"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
