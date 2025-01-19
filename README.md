@@ -6,11 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=00bfff&background=000000&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'30+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
 
 </div>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="center">
   <a href="https://github.com/student-MilanMandal">
-    <img src="https://readme-typing-svg.herokuapp.com?color=cc6600&width=380&height=28&lines=Hi👋+I'm+Milan+Mandal.....;Nice+To+Meet+You+....&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E82561&width=600&height=28&lines=Hi👋+I'm+Milan+Mandal.....;Nice+To+Meet+You....;A+passionate+frontend+developer+from+India+....&center=true"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
