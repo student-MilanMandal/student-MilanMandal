@@ -62,6 +62,12 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=github,netlify&theme=dark"></td>
 </tr>
 
+
+<tr>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=Express,node,Mongodb" ></td>
+</tr>
+
 </table>
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
