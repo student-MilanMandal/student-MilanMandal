@@ -65,7 +65,7 @@
 
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=Express,node,Mongodb&theme=dark" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=Express,node,Mongodb,tailwind&theme=dark" ></td>
 </tr>
 
 </table>
