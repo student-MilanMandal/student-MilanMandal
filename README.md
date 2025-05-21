@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Milan Mandal</h1>
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=00bfff&background=000000&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'30+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+<!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=00bfff&background=000000&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'30+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)---!>
 
 </div>
 <h3 align="center">A passionate frontend developer from India</h3>
