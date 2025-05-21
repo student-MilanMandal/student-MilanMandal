@@ -19,7 +19,6 @@
 - 👨‍💻 All of my projects are available at [student-MilanMandal](student-MilanMandal)
 
 - 📫 How to reach me **mandalmilan272@gmail.com**
-
 - <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
